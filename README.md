@@ -1,19 +1,4 @@
-# springboot-vue-demo
+## 校园二手交易平台springboot+vue+mysql
 
-## Project setup
-```
-npm install
-```
+大部分内容由我来完成，这是我的第一个sprinboot项目感谢道聪学长帮我调试BUG帮我解决了很多问题
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
